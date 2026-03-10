@@ -1,0 +1,12 @@
+{
+  "title": "MacBook Air M2 13-inch",
+  "slug": "macbook-air-m2-13-inch",
+  "price": 25990000,
+  "description": "Lightweight laptop for daily use.",
+  "stock": 10,
+  "images": [
+    "https://example.com/images/macbook-air-m2-front.jpg",
+    "https://example.com/images/macbook-air-m2-side.jpg"
+  ],
+  "category": "PUT_CATEGORY_OBJECT_ID_HERE"
+}
